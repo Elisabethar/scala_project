@@ -1,0 +1,2 @@
+# scala_project
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3e3409c02cc34ede9ad7bba304d26832)](https://www.codacy.com/app/harlamova/scala_project?utm_source=github.com&utm_medium=referral&utm_content=Elisabethar/scala_project&utm_campaign=badger)
